@@ -1,10 +1,10 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
-[![GitHub Stars](https://img.shields.io/github/stars/HeshamAdel0007/Laravel-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/HeshamAdel0007/Laravel-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/HeshamAdel0007/Laravel-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/issues)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HeshamAdel0007/Laravel-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/HeshamAdel0007/Laravel-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks)
-[![GitHub License](https://img.shields.io/github/license/HeshamAdel0007/Laravel-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/HeshamAdel0007/Php-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Php-Tips-Tricks/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/HeshamAdel0007/Php-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Php-Tips-Tricks/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/HeshamAdel0007/Php-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Php-Tips-Tricks/issues)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HeshamAdel0007/Php-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Php-Tips-Tricks/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/HeshamAdel0007/Php-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Php-Tips-Tricks)
+[![GitHub License](https://img.shields.io/github/license/HeshamAdel0007/Php-Tips-Tricks?style=flat-square)](https://github.com/HeshamAdel0007/Php-Tips-Tricks/blob/main/LICENSE)
 
 
 # ⚡ PHP Tips & Tricks
