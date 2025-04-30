@@ -9,6 +9,7 @@ This section provides essential coding standards, patterns, and recommendations 
 
 - [Null Coalescing Operator (??)](https://github.com/HeshamAdel0007/Php-Tips-Tricks/blob/main/BestPractices/Tips/null-coalescing.md)
 - [strict type checking](https://github.com/HeshamAdel0007/Php-Tips-Tricks/blob/main/BestPractices/Tips/strict-typing-mode.md)
+- [Typed Properties](https://github.com/HeshamAdel0007/Php-Tips-Tricks/blob/main/BestPractices/Tips/typed-properties.md)
 
 ---
 

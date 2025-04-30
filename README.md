@@ -32,7 +32,7 @@ This repo is a curated collection of practical tips, performance hacks, and clea
 <hr>
 
 ## 📌 Available Tips
-- [BestPractices](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/BestPractices) **[ Tips 2 ]**
+- [Best Practices](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/BestPractices) **[ Tips 3 ]**
 - [Security](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/Security) **[ Tips 1 ]**
 
 
