@@ -32,8 +32,9 @@ This repo is a curated collection of practical tips, performance hacks, and clea
 <hr>
 
 ## 📌 Available Tips
-- [Best Practices](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/BestPractices) **[ Tips 3 ]**
+- [Best Practices](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/BestPractices) **[ Tips 4 ]**
 - [Security](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/Security) **[ Tips 1 ]**
+- [LanguageBasics](https://github.com/HeshamAdel0007/Php-Tips-Tricks/tree/main/LanguageBasics)
 
 
 <hr>
